@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    width: 100%;
+    height: 100vh;
+    background: rgb(252, 240, 241);
+    background: linear-gradient(#111, #889e9c);
+}
+
+.friend {
+    padding: 1em;
+    background: green;
+}
+
+h3 {
+    text-transform: uppercase;
+}
